@@ -1,2 +1,3 @@
 # hello-world
-My first repository on github. I doubt I'll have any work in this.
+=============
+No code, just a testing environment.
